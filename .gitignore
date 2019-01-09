@@ -7,8 +7,8 @@
 .idea
 .vscode
 
-/src/apis/*.js
-!/src/apis/index.js
+/src/api/youtube.js
+
 
 # testing
 /coverage

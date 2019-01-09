@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import SearchBar from './search_bar';
-import youtube from '../apis/'
+import youtube from '../api/'
 
 class App extends Component {
 

@@ -1,4 +1,4 @@
-import apiKey from '../apis/youtube';
+import apiKey from '../api/youtube';
 import axios from 'axios';
 
 const KEY = apiKey.API_KEY;
